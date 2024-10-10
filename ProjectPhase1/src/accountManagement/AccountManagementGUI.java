@@ -24,4 +24,4 @@ public class AccountManagementGUI extends Application {
     }
 }
 
-//add name to its own gui then username and password gui.
+//add name to its own gui then username and password gui. wtffffff
